@@ -1,0 +1,57 @@
+1.  Questão 
+R  Is 
+    / home / joedson
+
+ 
+2) Questão
+
+./my_test/my_work/
+./my_test/job1/
+./my_test/job1/task1/
+
+3) Questão
+R 
+cd ../ ..
+cd my_work
+
+4) Questão
+R
+Nano numbers.txt
+
+5) Questão.
+R  cp numbers.txt numbers1.txt
+    cp numbers.txt numbers12.txt
+
+6) Questão
+R cp numbers. Txt numbers1.txt numbers2.txt    /my..test/job1/
+    task1
+
+7) Questão
+ R  Is -la
+8) Questão
+
+R  chmod 775 numbers.txt
+
+9) Questão
+R chmod  664  numbers1.txt
+10) Questão
+R  cp task1  /job1/my_test/~
+
+11) Renomeie o diretório my_work para my_work1
+
+12) Questão
+R  rm –r task1
+
+13) Questão
+
+R Is –la /bin > listabin.txt
+
+14) Questão
+R. clear
+
+15) Questão
+
+R top
+
+16) Questão
+R  echo Nome: joedson,  Sobrenome:  Santos,  Sexo:  Masculino,  Idade:29,  Grau: 3º
